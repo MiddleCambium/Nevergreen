@@ -78,6 +78,7 @@ Evergreen relies on API queries to obtain its data, and HTML scraping is not wel
 - Redstor Backup Pro Storage Platform Console
 - RIA eID
 - Simon Tatham PuTTY
+- SMART Product Drivers And Ink
 - Tableau Desktop
 - Tableau Reader
 - TMurgent AppVDefConGroups
