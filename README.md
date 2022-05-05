@@ -45,6 +45,7 @@ Evergreen relies on API queries to obtain its data, and HTML scraping is not wel
 - Google Earth Pro
 - IBM Semeru Runtime (AKA AdoptOpenJDK OpenJ9)
 - IGEL Universal Management Suite
+- INSUL
 - Jabra Direct
 - Karens Directory Printer
 - Komodo Labs NEWT Professional
